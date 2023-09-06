@@ -20,6 +20,12 @@ main .hero h1 {
   margin-right: auto;
   color: white;
 }
+main .hero h4 {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
 
 main .hero picture {
   position: absolute;
