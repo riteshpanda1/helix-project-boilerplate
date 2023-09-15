@@ -71,6 +71,7 @@ main .tx-hero .button-container {
   overflow: hidden;
   text-overflow: ellipsis;
   text-transform: uppercase;
+  margin-top: -500px;
 }
 main .tx-hero .button-container a{
   color: black;
